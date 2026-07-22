@@ -1,0 +1,53 @@
+MD Pro Editor — Contrat de licence utilisateur final (CLUF)
+
+Copyright © 2026 Patrick JAILLET — Tous droits réservés.
+Email : contact.shaderstudio@gmail.com
+Site web : https://patrickjaillet.github.io/sandefjord-software
+
+1. OBJET
+
+MD Pro Editor ("le Logiciel") est un logiciel propriétaire distribué selon le
+modèle shareware. Le présent contrat régit l'utilisation du Logiciel par
+l'utilisateur final ("Vous").
+
+2. LICENCE D'ESSAI
+
+Vous êtes autorisé à utiliser l'intégralité des fonctionnalités du Logiciel
+pendant une période d'essai gratuite de 7 (sept) jours à compter de la
+première exécution sur un poste donné, sans limitation fonctionnelle.
+
+3. LICENCE PAYANTE
+
+À l'issue de la période d'essai, l'utilisation continue du Logiciel nécessite
+l'achat d'une licence auprès de l'éditeur (2,99 € via PayPal) et son
+activation au moyen d'un code de licence personnel, lié à votre adresse
+e-mail. Cette licence est accordée pour un usage personnel ou professionnel,
+non exclusif et non transférable, sans limitation de durée.
+
+4. PROPRIÉTÉ INTELLECTUELLE
+
+Le Logiciel, son code source, sa documentation et tous les éléments qui le
+composent demeurent la propriété exclusive de Patrick JAILLET. Aucune
+disposition du présent contrat ne vous confère de droit de propriété sur le
+Logiciel. Toute copie, décompilation, modification, redistribution ou
+revente du Logiciel sans autorisation écrite préalable est interdite.
+
+5. ABSENCE DE GARANTIE
+
+Le Logiciel est fourni "en l'état", sans garantie d'aucune sorte, expresse ou
+implicite, y compris — mais sans s'y limiter — les garanties de qualité
+marchande ou d'adéquation à un usage particulier.
+
+6. LIMITATION DE RESPONSABILITÉ
+
+En aucun cas l'éditeur ne pourra être tenu responsable de dommages directs ou
+indirects résultant de l'utilisation ou de l'impossibilité d'utiliser le
+Logiciel.
+
+7. CONTACT ET SUPPORT
+
+Pour toute question relative à la licence, à l'activation ou pour renvoyer
+un code de licence perdu, contactez contact.shaderstudio@gmail.com.
+
+En installant ou en utilisant le Logiciel, vous reconnaissez avoir lu,
+compris et accepté les termes du présent contrat.
