@@ -1,73 +1,71 @@
 # MD Pro Editor
 
-> L'éditeur Markdown le plus puissant, le plus beau et le plus complet au monde.
+> The most powerful, most beautiful, and most complete Markdown editor in the world.
 
-**Plateformes** : Windows 10 LTSC · Windows 10 · Windows 11
-**Version actuelle** : 0.8.0
+**Platforms**: Windows 10 LTSC · Windows 10 · Windows 11
+**Current version**: 0.8.0
 
-![Capture d'écran de MD Pro Editor](docs/screenshot.png)
+![MD Pro Editor screenshot](docs/screenshot.png)
 
 ---
 
-## À propos
+## About
 
-MD Pro Editor est un éditeur Markdown natif Windows conçu pour surpasser Typora, Obsidian,
-Mark Text, Zettlr, iA Writer et Ghostwriter sur trois axes :
+MD Pro Editor is a native Windows Markdown editor designed to surpass Typora, Obsidian,
+Mark Text, Zettlr, iA Writer, and Ghostwriter on three fronts at once:
 
-- **Performance** — rendu instantané, même sur des documents volumineux.
-- **UI/UX** — design Fluent 2 natif Windows 11 (Mica, barre de titre personnalisée, animations fluides).
-- **Fonctionnalités** — CommonMark + GFM + extensions, organisation de notes façon Obsidian
-  (liens wiki, rétroliens), exports multi-formats, sans jamais sacrifier la simplicité d'usage.
+- **Performance** — instant rendering, even on large documents.
+- **UI/UX** — native Fluent 2 design for Windows 11 (Mica, custom title bar, smooth animations).
+- **Features** — full CommonMark + GFM coverage, Obsidian-style note organization
+  (wiki links, backlinks), multi-format export, without ever sacrificing ease of use.
 
-Le projet suit une feuille de route par phases (voir [ROADMAP.md](ROADMAP.md) pour le détail complet).
+## Features
 
-## Fonctionnalités
+**Editing**
+- AvaloniaEdit-based editor with full Markdown syntax highlighting, code folding, smart
+  list indentation, auto-closing pairs, search & replace (regex)
+- Multiple tabs, autosave, local version history
+- Floating contextual toolbar on text selection (bold, italic, link, highlight)
+- Command Palette (Ctrl+Shift+P), fully customizable keyboard shortcuts
 
-**Édition**
-- Éditeur AvaloniaEdit avec coloration syntaxique Markdown complète, pliage de code, indentation
-  intelligente des listes, auto-fermeture des paires, recherche & remplacement (regex)
-- Multi-onglets, sauvegarde automatique, historique de versions locales
-- Barre d'outils contextuelle flottante à la sélection (gras, italique, lien, surlignage)
-- Command Palette (Ctrl+Maj+P), raccourcis clavier personnalisables
+**Preview & rendering**
+- Real-time HTML preview (Markdig: tables, tasks, footnotes, frontmatter, emoji)
+- Math formulas (KaTeX), diagrams (Mermaid), code highlighting (Prism.js)
+- Preview themes (Light / Sepia / Dark) and custom CSS
+- Focus mode (dims text outside the current paragraph) and Typewriter mode
 
-**Aperçu & rendu**
-- Aperçu HTML en temps réel (Markdig : tables, tâches, footnotes, frontmatter, emoji)
-- Formules mathématiques (KaTeX), diagrammes (Mermaid), coloration de code (Prism.js)
-- Thèmes de preview (Clair / Sépia / Sombre) et CSS personnalisé
-- Modes Focus (atténuation du texte hors paragraphe courant) et Machine à écrire
+**Organization**
+- Obsidian-style workspace management: `[[Name]]` wiki links with autocompletion,
+  backlinks panel, on-the-fly note creation
+- File explorer, navigable table of contents (TOC), global multi-file search
+- Image handling (paste, drag & drop, resizing directly in the preview)
+- Reusable templates and snippets, visual YAML frontmatter editor
 
-**Organisation**
-- Gestion de workspace façon Obsidian : liens wiki `[[Nom]]` avec autocomplétion,
-  panneau de rétroliens, création de notes à la volée
-- Explorateur de fichiers, sommaire (TOC) navigable, recherche globale multi-fichiers
-- Gestion d'images (collage, glisser-déposer, redimensionnement dans l'aperçu)
-- Templates et snippets réutilisables, éditeur de frontmatter YAML
+**Export**
+- Standalone HTML, PDF, DOCX (native Word via OpenXML), EPUB
 
-**Exports**
-- HTML autonome, PDF, DOCX (Word natif via OpenXML), EPUB
+**License & trial**
+- Free 7-day trial, 100% functional, no limitations
 
-**Licence & essai**
-- Essai gratuit de 7 jours, 100 % fonctionnel, sans limitation
+## Download
 
-## Téléchargement
+Binaries are published on the repository's [Releases](https://github.com/Patrickjaillet/MD-Pro-Editor/releases)
+page. Download the latest `MDProEditor-Setup-x.x.x.exe` installer and run it.
 
-Les binaires sont publiés sur la page [Releases](https://github.com/Patrickjaillet/MD-Pro-Editor/releases)
-du dépôt. Téléchargez le dernier installeur `MDProEditor-Setup-x.x.x.exe` et exécutez-le.
+## License and purchase
 
-## Licence et achat
+MD Pro Editor is **shareware**:
 
-MD Pro Editor est un logiciel **shareware** :
+- Full-featured for **7 free trial days**, with no functional limitation.
+- Permanent unlock by purchasing a license (**€2.99** via [PayPal](https://paypal.me/ap3demak/2.99EUR)),
+  delivered as a license code after payment.
+- Lost or missing license code? Contact [contact.shaderstudio@gmail.com](mailto:contact.shaderstudio@gmail.com).
 
-- Version complète à 100 % pendant **7 jours d'essai**, sans limitation fonctionnelle.
-- Déblocage définitif via l'achat d'une licence (**2,99 €** via [PayPal](https://paypal.me/ap3demak/2.99EUR)),
-  livrée par code de licence après paiement.
-- Code de licence perdu ou non reçu ? Contactez [contact.shaderstudio@gmail.com](mailto:contact.shaderstudio@gmail.com).
-
-Voir [LICENSE.txt](LICENSE.txt) pour le contrat de licence utilisateur final complet.
+See [LICENSE.txt](LICENSE.txt) for the full end user license agreement.
 
 ## Copyright
 
 **MD Pro Editor**
-Copyright © 2026 Patrick JAILLET — Tous droits réservés
-Email : [contact.shaderstudio@gmail.com](mailto:contact.shaderstudio@gmail.com)
-Site web : [https://patrickjaillet.github.io/sandefjord-software](https://patrickjaillet.github.io/sandefjord-software)
+Copyright © 2026 Patrick JAILLET — All rights reserved
+Email: [contact.shaderstudio@gmail.com](mailto:contact.shaderstudio@gmail.com)
+Website: [https://patrickjaillet.github.io/sandefjord-software](https://patrickjaillet.github.io/sandefjord-software)

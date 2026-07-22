@@ -1,53 +1,52 @@
-MD Pro Editor — Contrat de licence utilisateur final (CLUF)
+MD Pro Editor — End User License Agreement (EULA)
 
-Copyright © 2026 Patrick JAILLET — Tous droits réservés.
-Email : contact.shaderstudio@gmail.com
-Site web : https://patrickjaillet.github.io/sandefjord-software
+Copyright © 2026 Patrick JAILLET — All rights reserved.
+Email: contact.shaderstudio@gmail.com
+Website: https://patrickjaillet.github.io/sandefjord-software
 
-1. OBJET
+1. PURPOSE
 
-MD Pro Editor ("le Logiciel") est un logiciel propriétaire distribué selon le
-modèle shareware. Le présent contrat régit l'utilisation du Logiciel par
-l'utilisateur final ("Vous").
+MD Pro Editor ("the Software") is proprietary software distributed under a
+shareware model. This agreement governs the use of the Software by the end
+user ("You").
 
-2. LICENCE D'ESSAI
+2. TRIAL LICENSE
 
-Vous êtes autorisé à utiliser l'intégralité des fonctionnalités du Logiciel
-pendant une période d'essai gratuite de 7 (sept) jours à compter de la
-première exécution sur un poste donné, sans limitation fonctionnelle.
+You are authorized to use all features of the Software during a free trial
+period of 7 (seven) days from the first run on a given machine, with no
+functional limitation.
 
-3. LICENCE PAYANTE
+3. PAID LICENSE
 
-À l'issue de la période d'essai, l'utilisation continue du Logiciel nécessite
-l'achat d'une licence auprès de l'éditeur (2,99 € via PayPal) et son
-activation au moyen d'un code de licence personnel, lié à votre adresse
-e-mail. Cette licence est accordée pour un usage personnel ou professionnel,
-non exclusif et non transférable, sans limitation de durée.
+After the trial period, continued use of the Software requires purchasing a
+license from the publisher (€2.99 via PayPal) and activating it with a
+personal license code linked to your email address. This license is granted
+for personal or professional use, non-exclusive and non-transferable, with
+no time limit.
 
-4. PROPRIÉTÉ INTELLECTUELLE
+4. INTELLECTUAL PROPERTY
 
-Le Logiciel, son code source, sa documentation et tous les éléments qui le
-composent demeurent la propriété exclusive de Patrick JAILLET. Aucune
-disposition du présent contrat ne vous confère de droit de propriété sur le
-Logiciel. Toute copie, décompilation, modification, redistribution ou
-revente du Logiciel sans autorisation écrite préalable est interdite.
+The Software, its source code, documentation, and all components thereof
+remain the exclusive property of Patrick JAILLET. No provision of this
+agreement grants you any ownership rights to the Software. Any copying,
+decompilation, modification, redistribution, or resale of the Software
+without prior written authorization is prohibited.
 
-5. ABSENCE DE GARANTIE
+5. NO WARRANTY
 
-Le Logiciel est fourni "en l'état", sans garantie d'aucune sorte, expresse ou
-implicite, y compris — mais sans s'y limiter — les garanties de qualité
-marchande ou d'adéquation à un usage particulier.
+The Software is provided "as is", without warranty of any kind, express or
+implied, including — but not limited to — the warranties of merchantability
+or fitness for a particular purpose.
 
-6. LIMITATION DE RESPONSABILITÉ
+6. LIMITATION OF LIABILITY
 
-En aucun cas l'éditeur ne pourra être tenu responsable de dommages directs ou
-indirects résultant de l'utilisation ou de l'impossibilité d'utiliser le
-Logiciel.
+Under no circumstances shall the publisher be held liable for direct or
+indirect damages resulting from the use or inability to use the Software.
 
-7. CONTACT ET SUPPORT
+7. CONTACT AND SUPPORT
 
-Pour toute question relative à la licence, à l'activation ou pour renvoyer
-un code de licence perdu, contactez contact.shaderstudio@gmail.com.
+For any question regarding the license, activation, or to resend a lost
+license code, contact contact.shaderstudio@gmail.com.
 
-En installant ou en utilisant le Logiciel, vous reconnaissez avoir lu,
-compris et accepté les termes du présent contrat.
+By installing or using the Software, you acknowledge that you have read,
+understood, and accepted the terms of this agreement.
